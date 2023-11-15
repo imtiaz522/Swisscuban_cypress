@@ -1,0 +1,16 @@
+{
+    "tabs": {
+        "membersarea_lnk":"/html/body/div[1]/header/div[1]/div/ul/li[1]/a",
+        "membersarea_txt":"//strong[@id='block-customer-login-heading']",
+        "aboutus_lnk"    :"//div[@class='panel header']//a[normalize-space()='About Us']",
+        "aboutus_txt"    :"//*[@id='maincontent']/div[2]/div[1]/div[1]/h1/span",
+        "wholesale_lnk"  :"/html/body/div[1]/header/div[1]/div/ul/li[3]/a", 
+        "wholesale_txt"  :"//h3[normalize-space()='Wholesale Plan']",
+        "guides_lnk"     :"//div[@class='panel header']//a[normalize-space()='Guides']",
+        "guides_txt"     :"//h1[normalize-space()='Cigar GUIDES']",
+        "trackorder_lnk" :"//*[@id='menu-top-bar-1']/li[6]/a",
+        "trackorder_txt" :"//button[@title='Track Order']",
+        "contactus_lnk"  :"//div[@class='panel header']//a[normalize-space()='Contact Us']",
+        "contactus_txt"  :"//h1[normalize-space()='Our Offices']"    
+    }
+}

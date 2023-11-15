@@ -1,0 +1,12 @@
+
+ {
+ "LoginPage_Objects": {   
+
+      "cookie_btn_obj":"#btn-cookie-allow",   
+    "username_txt_obj":".login-container > .block-customer-login > .block-content > #login-form > .fieldset > .email > .control > #email",
+    "password_txt_obj":".login-container > .block-customer-login > .block-content > #login-form > .fieldset > .password > .control > #pass",
+      "submit_btn_obj":".fieldset > .actions-toolbar > div.primary > #send2",
+     "page_title_obj" :".title > strong"
+    }
+
+}

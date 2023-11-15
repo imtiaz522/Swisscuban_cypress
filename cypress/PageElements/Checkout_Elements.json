@@ -1,0 +1,8 @@
+{
+    "checkout_elements": {
+         "checkout_btn": "//a[normalize-space()='Checkout']",
+      "orderreview_txt":"//*[@id='checkout']/div[3]/div[1]/div[1]/div/span",
+   "items_in_order_btn":"//*[@id='checkout']/div[3]/div[1]/div[2]/div[1]/div/div[1]",
+     "product_name_txt": "//*[@id='checkout']/div[3]/div[1]/div[2]/div[1]/div/div[2]/div"
+}
+}

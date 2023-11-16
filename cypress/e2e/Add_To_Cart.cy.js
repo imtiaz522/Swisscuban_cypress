@@ -1,8 +1,8 @@
 //import Loginpage Class
-import { LoginPage } from "../Pages/LoginPage.cy.js"
+import { LoginPage } from "../PageActions/LoginPage.cy.js"
 
 //import Add_To_Cart_Page class
-import { Add_To_Cart_Page } from "../Pages/Add_To_Cart_Page.cy.js"
+import { Add_To_Cart_Page } from "../PageActions/Add_To_Cart_Page.cy.js"
 
 //create objects for imported classes
 const login_obj = new LoginPage()
